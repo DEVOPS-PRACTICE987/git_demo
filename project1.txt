@@ -1,1 +1,8 @@
 </h1> "THIS IS FIRST FILE CREATED FOR GIT DEMO" </h1>
+
+Hello friend i am listing tools assigned to devops
+1 git
+2 jenkins
+3 selinium
+4 puppet/ansible/chef
+5 nagios
