@@ -1,8 +1,10 @@
 </h1> "THIS IS FIRST FILE CREATED FOR GIT DEMO" </h1>
 
 Hello friend i am listing tools assigned to devops
-1 git
-2 jenkins
-3 selinium
-4 puppet/ansible/chef
-5 nagios
+1 git---->SCM
+2 jenkins---->continous INTIGRATION
+3 selinium---->continous TESTING
+4 puppet/ansible/chef---->continous MANAGEMENT
+5 nagios---->continous MONITORING
+
+**We require linux basics along with cloud technology like AWS
